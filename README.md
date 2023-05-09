@@ -16,5 +16,5 @@
   <h3> 📱 Contacto: </h3>
   <p>📱 +54 3462642823 </p>
   <p>✉ marianocaroso12@gmail.com </p>
-  <a href="linkedin.com/in/mariano-caroso-b5130b271" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
+  <a href="[linkedin.com/in/mariano-caroso-b5130b271](https://www.linkedin.com/in/mariano-caroso-b5130b271/)" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="30"></a>
 </div>
