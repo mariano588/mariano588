@@ -3,7 +3,7 @@
 <h3 >🚀 Full Stack Developer  🚀</h3>
 <hr />
   <h3 > 👨🏻‍💻 Sobre Mi </h3>
-  <h5 >Soy un desarrollador web enfocado en busca de nuevos desafios que me permitan enfocarme en el aprendizaje constante y asi sumar nuevas habilidades </h5>
+  <h5 >Soy un desarrollador web en busca de nuevos desafios que me permitan enfocarme en el aprendizaje constante y asi sumar nuevas habilidades </h5>
 <hr />
 <div >
   <h3> 💻 Tecnologias y lenguajes que uso: </h3>
